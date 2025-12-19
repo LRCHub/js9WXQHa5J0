@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "GiMMiCK",
+  "base_artist": "NEK!",
+  "createdAt": "2025-12-19T06:28:21.552069Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "King of My Castle (Armins Gimmick dub)",
+      "artist": "Wamdue Project",
+      "has_synced": false,
+      "path": "select/01_King_of_My_Castle_(Armins_Gimmick_dub)_Wamdue_Project.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GIMMICK",
+      "artist": "Gunna",
+      "has_synced": true,
+      "path": "select/02_GIMMICK_Gunna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gimmick",
+      "artist": "The Cult",
+      "has_synced": true,
+      "path": "select/03_Gimmick_The_Cult.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Need a Gimmick",
+      "artist": "Nekrogoblikon",
+      "has_synced": false,
+      "path": "select/04_We_Need_a_Gimmick_Nekrogoblikon.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You Gotta Get A Gimmick",
+      "artist": "Bette Midler",
+      "has_synced": true,
+      "path": "select/05_You_Gotta_Get_A_Gimmick_Bette_Midler.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Put Your Hands Up (Gimmick Edit)",
+      "artist": "Black&White Brothers",
+      "has_synced": false,
+      "path": "select/06_Put_Your_Hands_Up_(Gimmick_Edit)_Black&White_Brothers.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Put your hands up (gimmick edit)",
+      "artist": "Black & White Brothers",
+      "has_synced": false,
+      "path": "select/07_Put_your_hands_up_(gimmick_edit)_Black_&_White_Brothers.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gimmick Game",
+      "artist": "Nana Mizuki",
+      "has_synced": false,
+      "path": "select/08_Gimmick_Game_Nana_Mizuki.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gimmick",
+      "artist": "Nonpoint",
+      "has_synced": false,
+      "path": "select/09_Gimmick_Nonpoint.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Werewolf Gimmick",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/10_Werewolf_Gimmick_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "GIMMICK",
+      "artist": "Gunna",
+      "has_synced": true,
+      "path": "select/11_GIMMICK_Gunna.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Werewolf Gimmick",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/12_Werewolf_Gimmick_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gimmick",
+      "artist": "-M-",
+      "has_synced": false,
+      "path": "select/13_Gimmick_-M-.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "No Gimmick",
+      "artist": "Kid Yugi",
+      "has_synced": true,
+      "path": "select/14_No_Gimmick_Kid_Yugi.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "You Gotta Have a Gimmick",
+      "artist": "Faith Dane",
+      "has_synced": false,
+      "path": "select/15_You_Gotta_Have_a_Gimmick_Faith_Dane.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GiMMiCK",
+      "artist": "NEK!",
+      "has_synced": false,
+      "path": "select/pl_01_GiMMiCK_NEK!.txt"
+    }
+  ]
+}
